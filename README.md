@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#Project's Notes
+
+For this project, given that I had a limited amount of time to work on it, I decided to set as a goal to build a working prototype as soon as possible, leaving all the refinements for a later stage. I looked closely at how rijkstudio works, the official website of the Rijks Museum where one can search the database using the same API that I employed for this project.
+Among the changes that I planned to introduced in a later stage were a refactoring of the search bar into a separate component; also I have pondered about the possibility to refresh completely the page when a new query is searched, even though that is also in a way conflicting with React logic of updating only the necessary components. I must admit that since I have not used React for one year and I have been outside of Front-End development for a while, I felt a bit rusty, but hopefully this is a good starting point.
